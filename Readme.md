@@ -1,5 +1,17 @@
 
                                              -->Hand Tracking<--
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <img src="/demonstration.gif" alt="Centered GIF">
+</body>
+</html>
+
+
+
+
+
+                                             
 
 This project demonstrates a hand tracking system developed using Python and OpenCV. The application captures real-time video input from a webcam and detects hand landmarks, making it suitable for applications such as gesture recognition and human-computer interaction.
 
